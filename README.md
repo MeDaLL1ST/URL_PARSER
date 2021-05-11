@@ -1,0 +1,1 @@
+A program that uses regular expressions to find ip addresses, phone numbers, email addresses, and links to social networks in the html code of a website. The program does not always work correctly, who has the desire to make a fork. Gitlab repository with this project with the java spring framework: http://nikcorp.ru:4580/root/java_meta (the link may sometimes not work)
